@@ -1,6 +1,6 @@
 export const settings = {
-  site: 'https://cannonball.littlesticks.dev',
-  name: 'Little Sticks',
-  title: 'Cannonball by Little Sticks | A splash page template',
-  description: 'This is a simple splash page template built with Astro by Little Sticks',
+  site: 'https://mistraiteur.fr',
+  name: 'M.I.S Traiteur',
+  title: 'M.I.S Traiteur',
+  description: 'M.I.S Traiteur',
 }
