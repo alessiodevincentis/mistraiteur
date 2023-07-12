@@ -1,54 +1,71 @@
-# Astro Starter Kit: Basics
+<p align="center">
+  <img src="assets/gh-banner.png" alt="Cannonbal Theme Banner">
+</p>
 
+<br/>
+<div align="center">
+  <a href="https://twitter.com/littlesticksdev">
+  <img src="assets/twitter-badge.svg" alt="Follow Little Sticks on Twitter"/>
+</a>
+  <a href="https://littlesticks.lemonsqueezy.com/checkout/buy/ce15f246-6ffb-417d-b380-0745aeef69a9">
+    <img src="assets/sponsor-badge.svg" alt="Sponsor This Repo" />
+  </a>
+  <a href="https://littlesticks.dev/discord">
+    <img src="assets/discord-badge.svg" alt="Join our Discord" />
+  </a>
+  
+</div>
+<br/>
+
+# Cannonball Splash Page 💦
+
+This is a template for a modern splash page/coming soon page inspired by [this Framer template](https://coming-soon.framer.website/).
+
+You can learn more about this template/theme's creation in [this YouTube video](https://www.youtube.com/watch?v=o58kSpPMuuI)
+
+## Features
+
+- ✅ Modern Design
+- ✅ Email Signup Form
+- ✅ SEO friendly
+- ✅ Modern CSS Reset via Andy Bell
+- ✅ Fluid typography scaling via Utopia
+- ✅ Base and Page Layouts
+- ✅ A generic but flexible Button component
+- ✅ Automatic Sitemap
+
+## Get Started 
+
+Customize the global site settings such as the title and description in the `src/data/settings.ts` file
+
+Set your own social profile links and icons in the `src/data/socials.ts` file
+
+<p>
+  <a href="https://stackblitz.com/github/littlesticks/cannonball">
+  <img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" height="36px" />
+  </a>
+</p>
+
+OR
+
+## Local Development
+
+```sh
+npm i && npm start
 ```
-npm create astro@latest -- --template basics
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Deploy
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Astro has [an in-depth guide](https://docs.astro.build/en/guides/deploy/) on how to deploy an Astro project to each service.
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+## Sponsor
 
-## 🚀 Project Structure
+If you find this theme useful, please consider donating to support the continued development of it with the link below
 
-Inside of your Astro project, you'll see the following folders and files:
+[Donate to Little Sticks](https://littlesticks.lemonsqueezy.com/checkout/buy/ce15f246-6ffb-417d-b380-0745aeef69a9)
 
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Support
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Please feel free to reach out to us on our Discord if you have questions or file an issue on the repo.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+[Join our Discord](https://littlesticks.dev/discord)
